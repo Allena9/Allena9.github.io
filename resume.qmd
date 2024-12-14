@@ -1,89 +1,64 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Austin Allen's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Austin Allen
+Student at BYU-Idaho. 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="austallen99@gmail.com">austallen99@gmail.com</a>
+| <a href="www.linkedin.com/in/austin-allen-b914911b7">My Linkedin page</a>
 </div>
 
+### Skills
 
-## Currently
+C++, C#, Python, Git, Github, R
 
-Standing on the shoulders of giants
+### Experiential Learning Projects
+ME 172 | BYU-Idaho	Jan – Apr 2024
 
-### Specialized in
+Student	Rexburg, ID            
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+•	Certified Solid Works Associate
 
+•	Technical Drawing, Parametric Modeling, Assembly Design, Design Analysis, CAD Best Practices 
 
-### Research interests
+### Education
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Brigham Young University-Idaho Est. Dec 2025
 
+### Occupation
 
-## Education
+#### BYU-Idaho Aux Maintenance	Sep 2020 – Present
 
-`1654-1660`
-__The King's School, Grantham.__
+Maintenance Technician	Rexburg, ID            
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+•	Conducted routine inspections and repairs of electrical and plumbing to ensure optimal functionality and safety within the housing complex 
 
-- Sizar
+•	Interacted professionally with residents, addressing maintenance concerns and providing excellent customer service to enhance resident satisfaction and retention
 
-`1667 - death`
-__Trinity College, Cambridge__
+•	Developed robust testing and troubleshooting skills
 
-- Fellow
+#### Church of Jesus Christ of Latter-Day Saints	                  Mar 2019 – Mar 2020
 
+Volunteer Service Representative	New England, USA
 
+•	Corresponded effectively with people from diverse cultures and socioeconomic backgrounds
 
-## Awards
+•	Assisted and supervised new Service Representatives
 
-`2012`
-President, *Royal Society*, London, UK
+•	Oversaw and managed Service Representatives at district and area levels
 
-Associate, *French Academy of Science*, Paris, France
+#### Napa Auto Parts	                  Jun – Dec 2017
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Parts Delivery Driver	Clackamas, OR/
+•	Planned and executed delivery routes/
+•	Arranged and organized store inventory for ease of operation/
+•	Ability to work well independently and as part of a team to prioritize tasks in a fast-paced environment/
+•	Excellent customer service and communication skills with local stores and customers/
 
 
 
-<!-- ### Footer
+### Footer
 
-Last updated: May 2013 -->
+Last updated: Sep 2024
